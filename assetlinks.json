@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.yoel2222.twa",
-        "sha256_cert_fingerprints": ["E8:E5:12:42:7C:28:B5:B0:BE:BF:CD:A2:AE:26:E4:A1:FC:E9:05:A3:FC:F9:CE:02:74:81:61:EA:1E:3D:B1:C9"]
+        "sha256_cert_fingerprints": ["2B:1D:F7:67:82:D5:41:35:CC:49:87:DB:E6:A6:89:11:E4:BE:EF:63:74:12:08:96:E7:5E:15:EA:85:F9:42:0B"]
       }
     }]
